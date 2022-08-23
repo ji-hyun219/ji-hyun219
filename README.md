@@ -74,6 +74,17 @@ I'm Jihyun, junior frontend developer from  Seoul, Korea.</p>
 <br />
 <br />
 
+<h2>🏋️‍♀️ My ideal routine</h2>
+<li>지금 늘 잘해오고 있다는 걸 의심치 않기!</li>
+<li>퇴근하면 좋아하는 카페에서 카공하기!</li>
+<li>일요일은 꼭 리프레시의 시간을 갖거나 정말 하고 싶은 개발 프로젝트 하기!</li>
+
+
+<br />
+<br />
+<br />
+<br />
+
 
   
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ji-hyun219&show_icons=true&theme=tokyonight)
