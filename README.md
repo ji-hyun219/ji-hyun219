@@ -87,8 +87,8 @@ I'm Jihyun, junior frontend developer from  Seoul, Korea.</p>
 
 
   
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ji-hyun219&show_icons=true&theme=tokyonight)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ji-hyun219&layout=compact&theme=tokyonight)
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ji-hyun219&show_icons=true&theme=omni)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ji-hyun219&layout=compact&theme=omni)
 
   
 <br />
