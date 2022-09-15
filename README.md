@@ -76,11 +76,21 @@ I'm Jihyun, junior frontend developer from  Seoul, Korea.</p>
 
 <h2>🏋️‍♀️ My ideal routine</h2>
 <li>지금 늘 잘해오고 있다는 걸 의심치 않기!</li>
-<li>퇴근하면 좋아하는 카페에서 카공하기!</li>
-<li>일요일은 꼭 리프레시의 시간을 갖거나 정말 하고 싶은 개발 프로젝트 하기!</li>
+<li>퇴근하면 업무 관련 일하지 않기!</li>
+<li>주말은 꼭 리프레시의 시간을 갖거나 정말 하고 싶은 개발 프로젝트 하기!</li>
 
 
 <br />
+<br />
+<br />
+<br />
+
+<h2>📚 My study list</h2>
+<li>플러터 - 캘린더 DB 사용(sqlite)</li>
+<li>플러터 - 근태관리 어플(구글맵 api)</li>
+<li>풀스택 - 맛집지도(카카오맵 api) 배포까지</li>
+
+
 <br />
 <br />
 <br />
