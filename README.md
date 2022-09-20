@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br />
 
 
-<img src="https://user-images.githubusercontent.com/91349474/179239616-e4f044ac-d574-435a-8b03-3d96d7ef232d.jpg" height=300 />
+<img src="https://user-images.githubusercontent.com/91349474/191301757-b94ba034-baa9-4645-a690-a53d2e3116e8.jpg" height=230 />
 
 <br />
 <br />
@@ -76,8 +76,9 @@ I'm Jihyun, junior frontend developer from  Seoul, Korea.</p>
 
 <h2>🏋️‍♀️ My ideal routine</h2>
 <li>지금 늘 잘해오고 있다는 걸 의심치 않기!</li>
-<li>퇴근하면 업무 관련 일하지 않기!</li>
+<li>잘 쉬는 것도 일 잘하는 방법이다</li>
 <li>주말은 꼭 리프레시의 시간을 갖거나 정말 하고 싶은 개발 프로젝트 하기!</li>
+<li>주변 상황과 리소스의 부족함에 대한 핑계를 대지 않으며, 언제나 능동적인 자세로 찾아다니며 개발할 것!</li>
 
 
 <br />
@@ -87,13 +88,14 @@ I'm Jihyun, junior frontend developer from  Seoul, Korea.</p>
 
 <h2>📚 My study list</h2>
 <li>플러터 - 캘린더 DB 사용(sqlite)</li>
-<li>플러터 - 근태관리 어플(구글맵 api)</li>
 <li>풀스택 - 맛집지도(카카오맵 api) 배포까지</li>
 
 
 <br />
 <br />
 <br />
+<br />
+
 
 
   
