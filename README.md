@@ -47,10 +47,9 @@ I'm Jihyun, junior frontend developer from  Seoul, Korea.</p>
 <br />
 
 <h2>📚 My study list</h2>
-<li>플러터 - push notification (completed!)</li>
+<li>플러터 - push notification (android completed! / ios ing..)</li>
 <li>플러터 - 카카오톡 공유 기능 (ing..)</li>
 <li>플러터 - 캘린더 DB 사용(sqlite) (ing..)</li>
-<li>풀스택 - 맛집지도(카카오맵 api) 배포까지</li>
 
 
 <br />
@@ -65,17 +64,6 @@ I'm Jihyun, junior frontend developer from  Seoul, Korea.</p>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ji-hyun219&layout=compact&theme=omni)
 
   
-<br />
-<br />
-<br />
-  
-  
-
-<h3 align="center"> 
-  Visitor count<br /><br />
-  <img src="https://profile-counter.glitch.me/ji-hyun219/count.svg" />
-</h3>
-
 
 
 <br />
