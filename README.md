@@ -48,7 +48,7 @@ I'm Jihyun, junior frontend developer from  Seoul, Korea.</p>
 
 <h2>📚 My study list</h2>
 <li>플러터 - push notification (android completed! / ios ing..)</li>
-<li>플러터 - 카카오톡 공유 기능 (ing..)</li>
+<li>플러터 - remote config (not yet..)</li>
 <li>플러터 - 캘린더 DB 사용(sqlite) (ing..)</li>
 
 
