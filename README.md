@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br />
 
 
-<img src="https://user-images.githubusercontent.com/91349474/179239616-e4f044ac-d574-435a-8b03-3d96d7ef232d.jpg" height=300 />
+<img src="https://user-images.githubusercontent.com/91349474/198870364-d07d5899-d365-4780-b554-263e97736e2b.JPG" height=300 />
 
 <br />
 <br />
@@ -47,8 +47,8 @@ I'm Jihyun, junior frontend developer from  Seoul, Korea.</p>
 <br />
 
 <h2>📚 My study list</h2>
-<li>플러터 - push notification (android completed! / ios ing..)</li>
-<li>플러터 - remote config (not yet..)</li>
+<li>플러터 - push notification (completed!)</li>
+<li>Swift - 문법 공부 (ing..)</li>
 <li>플러터 - 캘린더 DB 사용(sqlite) (ing..)</li>
 
 
