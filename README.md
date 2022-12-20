@@ -38,7 +38,7 @@ I'm Jihyun, junior frontend developer from  Seoul, Korea.</p>
 
 <h2>🏋️‍♀️ My ideal routine</h2>
 <li>지금 늘 잘해오고 있다는 걸 의심치 않기!</li>
-<li>주말은 리프레시의 시간을 갖거나 정말 하고 싶은 개발 프로젝트 하기!</li>
+<li>언제나 자존감은 높게, 하지만 겸손한 자세로 폭 넓은 지식을 습득하려고 노력하기!</li>
 <li>주변 상황과 리소스의 부족함에 대한 핑계를 대지 않으며, 언제나 능동적인 자세로 찾아다니며 개발할 것!</li>
 
 
@@ -47,28 +47,15 @@ I'm Jihyun, junior frontend developer from  Seoul, Korea.</p>
 <br />
 
 <h2>📚 My study list</h2>
-<li>플러터 - push notification (completed!)</li>
-<li>Swift - 문법 공부 (ing..)</li>
-<li>플러터 - 캘린더 DB 사용(sqlite) (ing..)</li>
+<li>플러터 - 배달앱(ing..)</li>
+<li>출시를 목표로 한 iOS 앱 만들어보기(not yet..)</li>
 
 
 <br />
 <br />
 <br />
-<br />
 
 
-
-  
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ji-hyun219&show_icons=true&theme=omni)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ji-hyun219&layout=compact&theme=omni)
-
-  
-
-
-<br />
-<br />
-<br />
 
 
 <h2>🧐 About Me</h2>
