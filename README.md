@@ -46,16 +46,6 @@ I'm Jihyun, junior frontend developer from  Seoul, Korea.</p>
 <br />
 <br />
 
-<h2>📚 My study list</h2>
-<li>플러터 - 배달앱(ing..)</li>
-<li>Prisma + NestJS + PostgreSQL(ing..)</li>
-<li>백준 회원가입하고 시작해보기(not yet..)</li>
-
-
-<br />
-<br />
-<br />
-
 
 
 
