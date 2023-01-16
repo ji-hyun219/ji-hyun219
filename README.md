@@ -46,6 +46,18 @@ I'm Jihyun, junior frontend developer from  Seoul, Korea.</p>
 <br />
 <br />
 
+    
+    
+
+<h2>👩🏻‍💻 My Study..</h2>
+<li>사내 스터디 (Flutter 공부 & 파이썬 코테) ing.. (매주 월)</li>
+<li>인강 스터디 (Flutter 중급 공부) ing.. (매주 토)</li>
+<li>CS 스터디 (예정)</li>
+
+
+<br />
+<br />
+<br />
 
 
 
