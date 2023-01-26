@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ji-hyun219)](https://solved.ac/ji-hyun219/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ix0219)](https://solved.ac/ix0219/)
