@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ✨ **Jihyun's github** ✨   
 
-
+팔로우할거면 해라 -> https://instagram.com/jih.yunstudy?igshid=YmMyMTA2M2Y=   
 🏃🏻‍♀️🏃🏻‍♀️🏃🏻‍♀️    
 
 
