@@ -40,7 +40,7 @@
 
 
 <p align="center">
-    <Strong>☁️Avout Me☁️</Strong><br>
+    <Strong>☁️About Me☁️</Strong><br>
 </p>
 <a href="https://ts2ree.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
